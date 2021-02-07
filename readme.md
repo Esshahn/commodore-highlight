@@ -1,9 +1,11 @@
 # commodore-highlight
 
-Syntax Highlight support for 
+Syntax Highlighting for your website based on [highlightjs.org](https://highlightjs.org).
 
-* ACME assembly language for the 6502 CPU family (e.g. Commodore 64)
-* BASIC (2.0, 3.5, 7.0) language fro the Commodore 264, 64, 128
+Currently supported:
+
+* (okayish) ACME assembly language for the 6502 CPU family (e.g. Commodore 64)
+* (wonky) BASIC (2.0, 3.5, 7.0) language fro the Commodore 264, 64, 128
 
 ## Usage:
 
